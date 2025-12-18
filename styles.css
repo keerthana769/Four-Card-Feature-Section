@@ -144,11 +144,11 @@ body {
     grid-row: 2/4;
   }
   .content .calculator {
-    grid-row: 3/5;
-    grid-column: 2;
-  }
-  .content .karma {
     grid-column: 3;
     grid-row: 2/4;
+  }
+  .content .karma {
+    grid-row: 3/5;
+    grid-column: 2;
   }
 }/*# sourceMappingURL=styles.css.map */

@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/keerthana769/Four-Card-Feature-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/keerthana769/Four-Card-Feature-Section/)
+- Live Site URL: [Add live site URL here](https://keerthana769.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
@@ -71,7 +71,7 @@ Users should be able to:
 
   - If `font-size: 1.3333333333rem`; Round to 2–3 decimal places, `font-size: 1.33rem;`
 
-4. **Important: rem vs body font-size**
+4. **rem vs body font-size**
 
   - rem is based on the html font-size, NOT body.
   - Changing this does not affect rem, it effects em, text size inside body, percentages based on body:

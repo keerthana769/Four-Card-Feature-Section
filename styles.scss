@@ -189,12 +189,12 @@ body{
         grid-row: 2/4;
         }
         .calculator{
-        grid-row: 3/5;
-        grid-column: 2;
-        }
-        .karma{
         grid-column: 3;
         grid-row: 2/4;
+        }
+        .karma{
+        grid-row: 3/5;
+        grid-column: 2;
         }
     }
 
