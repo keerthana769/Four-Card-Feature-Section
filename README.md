@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%20(347).png)
+![](./images/Screenshot%20(350).png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/keerthana769/Four-Card-Feature-Section/)
-- Live Site URL: [Add live site URL here](https://keerthana769.github.io/Four-Card-Feature-Section/)
+- Solution URL: [https://github.com/keerthana769/Four-Card-Feature-Section/]
+- Live Site URL: [https://keerthana769.github.io/Four-Card-Feature-Section/]
 
 ## My process
 

@@ -17,7 +17,8 @@ $text-2-desktop-extralight:200 2.25rem/140% "Poppins", sans-serif;
 
 $ls-025:0.25px;
 $ls-0:0px;
-
+// change px to rem, don't use fixed size for img and don't use max-width for header
+// h,w-4rem,mh,mw-64px for img
 
 *, *::before, *::after{
     margin: 0;
