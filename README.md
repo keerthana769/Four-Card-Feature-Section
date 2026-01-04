@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%20(350).png)
+![](./images/Screenshot.png)
 
 ### Links
 
